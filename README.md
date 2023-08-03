@@ -1,4 +1,4 @@
-![ezgif com-optimize (14)](https://github.com/ZenithRahman/RPG-Game/assets/66364348/c03dbcc2-7e85-4129-839a-acddd67a788f)# RPG-Game
+# RPG-Game
 A personal game project for practicing purpose .
 # Things I want to achieve from this
 *  Implement advanced character locomotion
